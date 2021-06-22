@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Skin</string>
+    <string name="facebook_app_id">265464927874122</string>
+    <string name="fb_login_protocol_scheme">fb265464927874122</string>
+<!--    <string name="facebook_app_id">1059514137759790</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb1059514137759790</string>-->
+</resources>
